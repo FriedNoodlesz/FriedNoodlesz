@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 19yo
-Studying Computer Science
+<br><br>
+Studying Computer Science<br>
 3rd Period
 
 Front End👈

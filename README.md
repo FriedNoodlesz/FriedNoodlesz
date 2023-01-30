@@ -6,10 +6,13 @@ Studying Computer Science
 
 Front End👈
 <br>
+<br>
 HTML✔
 CSS✔
 <br>
+<br>
 Back End👈
+<br>
 <br>
 Python✔
 

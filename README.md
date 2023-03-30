@@ -12,6 +12,8 @@ HTML✔
 <br>
 CSS✔
 <br>
+JS✔
+<br>
 <br>
 Back End👈
 <br>
